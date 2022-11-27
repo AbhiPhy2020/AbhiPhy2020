@@ -1,6 +1,6 @@
 - 👋 Hi, I am Abhishek Kumar. I am a theoretical physicist working at the interface of condensed matter theory AMO physics, and quantum computation.
-- 👀 I have also interest in philosophy and Vipassana (mindfulness) meditation.  
-- 🌱 I’m learning Tensor network and Variational quantum algorithm.
+- 👀 I have also interest in philosophy and vipassana (mindfulness) meditation.  
+- 🌱 I’m learning tensor network and variational quantum algorithm.
 - 💞️ I’m looking to collaborate on code or simulation related to many body interacting systems.
 - 📫 You can reach me through abhishek22@vt.edu.
 
